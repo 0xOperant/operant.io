@@ -1,4 +1,4 @@
-name: PROD - Deploy HTML5 UP site to Cloudflare Workers
+name: PROD - Deploy to Cloudflare Workers
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
